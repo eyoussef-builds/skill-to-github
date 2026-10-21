@@ -1,0 +1,6 @@
+interface:
+  display_name: "Skill to GitHub"
+  short_description: "Publish skills with bilingual guides and social artwork"
+  default_prompt: "Use $skill-to-github to prepare this finished skill for sharing, ask about publication if needed, and complete the approved GitHub release with bilingual guides, two infographics, a branded Facebook promo graphic and the four-block Arabic social-copy pack for X/Threads, Facebook, LinkedIn and replies."
+policy:
+  allow_implicit_invocation: true
