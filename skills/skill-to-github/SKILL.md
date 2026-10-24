@@ -62,6 +62,10 @@ After publication, read the repository back from GitHub: inventory files and ref
 
 If authentication or policy blocks publication, retain the completed local package, explain the exact missing action, and do not retry unchanged failures or weaken security checks. If an unexpected leak appears, stop further distribution and explain the finding; do not conceal it with an unsupported “clean” claim or rewrite history without appropriate authority. Live exposed credentials require revocation, not just file deletion.
 
+## Mandatory final review
+
+Before publication and before declaring the release complete, read and perform [the final release review](references/final-review.md). Inspect the skill's own output-review gate, rendered documentation/About against any reference, actual included artwork/copy, privacy and install/download experience. Fix findings and recheck affected local and published artifacts, recording concise evidence privately. File presence, passing tests and a successful push alone are insufficient. For a narrow update, preserve suitable approved sharing assets; this review does not authorize a new social campaign or require repeated publication approval.
+
 ## Deliver
 
 Provide the live repository link, English/Arabic guides, both infographic downloads/previews, the separate Facebook promo design, the four Arabic social-copy blocks and English image suggestion, and the complete sharing bundle. Summarize what was checked, any real gaps, and whether publication is complete or awaiting a PR/permission/tool. Never post to social media, message people or publish unrelated projects unless separately requested.
