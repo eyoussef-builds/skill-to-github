@@ -15,6 +15,25 @@ Make the README feel like a helpful person walking the reader through a useful t
 
 The desired presentation combines plain benefits, original visuals, clear setup checkpoints and progressive technical detail. Apply the same approved palette from `brand-style.md` to README banners and workflow diagrams. Preserve genuine supplied product screenshots. Study a user-supplied public reference when provided; transfer its explanatory approach, not its unrelated screenshots, claims, product requirements or license.
 
+## Reader-experience review
+
+When a reference is supplied, read its real README and language counterpart before drafting. Identify the useful qualities to transfer: explanation order, visible user journey, installation checkpoints, concrete first-use result, language treatment and navigation. Compare those qualities with the finished page, rather than copying headings or assuming a similar color palette is enough. A user's preferred reference can live in their private local profile; do not impose their identity or account details on every portable release.
+
+Review these separately, recording brief evidence in private release notes:
+
+| Review area | What a newcomer should be able to do |
+| --- | --- |
+| About description | Understand who uses it and the concrete result in one plain sentence; distinguish an agent skill from an app or service |
+| Opening and journey | Explain what happens after their request; see a compact workflow illustration and a plain definition of “skill” if needed |
+| Installation | Follow both assistant-assisted and manual routes, then confirm discovery; detailed compatibility belongs in the linked guide |
+| First use and example | Know exactly what to send, what output to expect, what to inspect and the next decision; see a small concrete example in the README, labeled fictional when invented |
+| Visual hierarchy | Reach explanation and first use without scrolling through a full-height promotional infographic; use language-appropriate banners/diagrams and put large share artwork in the sharing section |
+| Practical questions | Find relevant requirements, costs, limitations, updating/removal and support without reading an internal audit report |
+
+Keep each required qualification where it affects the user's decision, and move detailed operational checks to linked guides or expandable sections. Do not repeat permission/privacy boilerplate at every step or expose internal evidence-management jargon as the main benefit. Accurate badges, friendly section labels and galleries can help when they serve the chosen reference; they are not a universal fixed template.
+
+Read the page as a beginner: “What is this? What do I do? What will I receive?” If those answers require opening the skill source or several external guides, revise the main page. Inspect the actual rendered desktop page and check narrow-screen layout when the assets/layout materially risk unreadable content. Recheck both languages after publication. Link/file/secret scans remain separate checks, not substitutes for this editorial review.
+
 ## English and Arabic
 
 Write both main guides and both detailed installation guides. Use idiomatic Arabic rather than transliterating every English term. Set RTL reading order where supported, keep commands/identifiers/URLs legible LTR, and retain Western digits `0–9`. Give corresponding sections the same facts and meaningful examples. Verify actual Markdown rendering, navigation, collapsible sections and image links after publication.

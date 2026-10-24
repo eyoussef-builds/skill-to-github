@@ -30,6 +30,8 @@ Read [documentation guidance](references/documentation.md). Write `README.md` an
 
 Explain what the skill does, who it helps, what the user supplies, what they receive and exactly how to begin. Keep agent-dependent limits where they affect a real choice. Verify installation guidance against current official sources; distinguish native skills, instruction-import fallbacks and capabilities actually tested. Do not copy commands, compatibility claims, costs or legal terms from an unrelated product.
 
+Before publication, complete the [reader-experience review](references/documentation.md#reader-experience-review) against the actual rendered English and Arabic pages and any user-supplied reference. Review the About description separately from the README. File presence, metadata validation and privacy checks do not establish that a newcomer can understand or use the skill; fix identified presentation gaps before calling the release complete.
+
 ## Create both share infographics
 
 Read [infographic guidance](references/infographics.md) and [the brand style](references/brand-style.md). Use the available image-generation tool and its skill to produce **two separate finished images**, English and Arabic, for every released skill. Each explains the benefit, the real workflow, how to install/start, and the exact GitHub URL. Use the same facts across languages, readable type, Western digits and proper RTL composition. Include only approved public signature information.
